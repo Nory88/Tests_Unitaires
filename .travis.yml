@@ -1,4 +1,5 @@
 language: python
 
 script:
+ - pip install hypothesis
  - python test_unitaires.py

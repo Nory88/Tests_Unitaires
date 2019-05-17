@@ -1,5 +1,5 @@
 language: python
 
-rvm:
+script:
  - 3.7
  - python

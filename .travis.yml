@@ -1,5 +1,4 @@
 language: python
 
 script:
- - 3.6.3
- - python
+ - python3 test_unitaires.py
